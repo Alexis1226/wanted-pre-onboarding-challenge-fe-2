@@ -8,3 +8,5 @@
 
 TypeScipt에 대해 알아가는 프로젝트.
 앞으로 차곡차곡 쌓아나갈 계획.
+
+- [미션](https://alexis1226.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
